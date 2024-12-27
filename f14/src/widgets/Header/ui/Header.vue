@@ -5,9 +5,9 @@
             :src=logo alt="logo" class="w-16 h-16 bg-blue-800 shadow-xl shadow-blue-900">
             <section class="flex flex-row items-center space-x-6 font-medium">
                 <i class="fa-solid fa-circle-user text-3xl"></i>
-                <a href="#" class="hover:text-blue-500 duration-300">Войти</a>
-                <p href="#" class="hover:text-blue-500 duration-300 cursor-default">|</p>
-                <a href="#" class="hover:text-blue-500 duration-300">Зарегистрироваться</a>
+                <a href="/auth" class="hover:text-blue-500 duration-300">Войти</a>
+                <p class="hover:text-blue-500 duration-300 cursor-default">|</p>
+                <a href="/reg" class="hover:text-blue-500 duration-300">Зарегистрироваться</a>
             </section>
         </TransitionGroup>
         
